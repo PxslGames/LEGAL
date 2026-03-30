@@ -1,6 +1,6 @@
 # Clanker – Terms of Service
 
-**Last Updated:** 13th February 2026
+**Last Updated:** 30th March 2026
 
 Hey 👋  
 Thanks for using Clanker. By inviting or using the bot, you agree to the terms below.
@@ -103,5 +103,5 @@ Continued use of Clanker means you accept any updates.
 
 Questions or issues?
 
-**Owner / Developer:** Pxsl & Dashcrikeydash
+**Owners / Developers:** Pxsl & Dashcrikeydash
 **Support Server:** https://discord.gg/YtQdrkxfg7
